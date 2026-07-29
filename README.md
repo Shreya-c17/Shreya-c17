@@ -52,7 +52,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,vite,tailwind,django,fastapi,nodejs,express,postgres,mongodb,mysql,git,github,docker,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,react,django,fastapi,express,postgres,mongodb,mysql,git,github,postman,vscode"/>
 
 </p>
 
@@ -185,7 +185,7 @@
   <a href="https://github.com/Shreya-c17">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:chittawadagishreya2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
