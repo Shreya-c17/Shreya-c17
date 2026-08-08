@@ -59,7 +59,29 @@
 ---
 
 # 🚀 Featured Projects
+## ⭐ Featured Project
 
+### 🤖 [AI Operations Copilot](https://github.com/Shreya-c17/ai-operations-copilot)
+
+**AI-powered operational intelligence layer designed to turn unstructured community conversations into structured, actionable workflows.**
+
+Built as an AI Product Management project, this explores how AI can help streamline community operations by identifying issues, structuring them into actionable workflows, and supporting faster resolution and better operational decisions.
+
+**What I worked on**
+- Product discovery and problem definition
+- User workflows and MVP definition
+- Product requirements and PRD
+- AI-assisted issue classification and prioritization
+- Operational workflows and decision support
+- Product validation and iteration
+- Go-to-market and product strategy
+- Interactive product prototype
+
+**Product Flow**
+
+`Community Conversations → AI Classification → Structured Issues → Vendor Coordination → Resolution → Operational Insights`
+
+**🔗 [Live Prototype](https://shreya-c17.github.io/ai-operations-copilot/) · [GitHub Repository](https://github.com/Shreya-c17/ai-operations-copilot)**
 ## 🩺 [Medi-Lin-Q ↗](https://github.com/mini-project-123/MEDI-LIN-Q)
 
 > AI-powered healthcare platform connecting patients, doctors, and hospitals through intelligent workflows.
