@@ -54,7 +54,7 @@
 
 <p align="center">
 
-<a href="./CSHREYA_RESUME_PM.pdf">
+<a href="./C_SHREYA_RESUME_PM.pdf">
 
 <img src="https://img.shields.io/badge/📄%20View%20Resume-0A66C2?style=for-the-badge"/>
 
